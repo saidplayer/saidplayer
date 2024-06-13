@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Dr Soli!</h1>
+<h1 align="center">Hi, this is  Dr Soli!</h1>
 <h3 align="center">A financial developer</h3>
+
+<p></p>
+<p><h3>Here are source codes of my personal projects:</h3></p>
+
+<p>
+<ul>
+  <li>MQL code for trading based on RSI indicator</li>
+</ul>  
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidplayer&label=Profile%20views&color=0e75b6&style=flat" alt="saidplayer" /> </p>
 
