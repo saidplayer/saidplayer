@@ -1,14 +1,20 @@
 <h1 align="center">Hi, this is  Dr Soli!</h1>
 <h3 align="center">A financial developer</h3>
 
-<p></p>
+<p> </p>
 <p><h3>Here are source codes of my personal projects:</h3></p>
 
 <p>
 <ul>
+  <li><b>MQL code for trading based on RSI indicator</b></li>
+  <p>This is a bot that loads on Meta Trader 4 and runs during market opening hours. It monitors the chosen Forex pair and performs trades based on the settings that you configure.</p>
+  <li>MQL code for trading based on RSI indicator</li>
+  <li>MQL code for trading based on RSI indicator</li>
   <li>MQL code for trading based on RSI indicator</li>
 </ul>  
 </p>
+<p>-</p>
+<p>-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidplayer&label=Profile%20views&color=0e75b6&style=flat" alt="saidplayer" /> </p>
 
