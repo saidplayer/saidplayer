@@ -6,7 +6,7 @@
 
 <p>
 <ul>
-  <li><b>MQL code for trading based on RSI indicator</b></li>
+  <li><b>MQL code for trading based on RSI & MACD indicators</b></li>
   <p>This is a bot that loads on Meta Trader 4 and runs during market opening hours. It monitors the chosen Forex pair and performs trades based on the settings that you configure.</p>
   <li>MQL code for trading based on RSI indicator</li>
   <li>MQL code for trading based on RSI indicator</li>
