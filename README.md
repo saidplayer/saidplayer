@@ -1,13 +1,15 @@
-<h1 align="center">Hi, this is  Dr Soli!</h1>
-<h3 align="center">A financial developer</h3>
 
-<p> </p>
-<p><h3>Here are source codes of my personal projects:</h3></p>
+### Hi, this is  Dr Soli! A financial developer. 
+Here I share my personal projects in finance, trading and crypto currencies. All the codes and programs are for informational purposes only and not intended to be personal financial advice or used for trading on a real money account.
 
-<p>
-<ul>
-  <li><b>MQL code for trading based on RSI & MACD indicators</b></li>
-  <p>This is a bot that loads on Meta Trader 4 and runs during market opening hours. It monitors the chosen Forex pair and performs trades based on the settings that you configure.</p>
+<p>&nbsp;</p>
+
+## My repositories:
+
+* [Forex trading signals: coding, backtesting and optimization](https://github.com/saidplayer/ForexTradingStrategies)
+  <p>This repository contains codes that load on Meta Trader 4 and runs during market opening hours. It monitors the chosen Forex pair and performs trades based on the settings that you configure.</p>
+
+
   <li>MQL code for trading based on RSI indicator</li>
   <li>MQL code for trading based on RSI indicator</li>
   <li>MQL code for trading based on RSI indicator</li>
