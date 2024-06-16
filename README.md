@@ -12,14 +12,11 @@ Here I share my personal projects in finance, trading and crypto currencies. All
 * **[Python trading bot](https://github.com/saidplayer/KuCoinCandleTrading)**
   <p>This repository contains code that I have written once to create a trading bot for crypto. It works with API of KuCoin crypto trading platform and provides a base for implementing action trading strategies that work in time frames as low as minutes and seconds.</p>
 
+* **[Basic finance theory and portfolio analysis](https://github.com/saidplayer/FinanceTheory)**
+  <p>This repository contains two folders. One folder includes MATLAB scripts that determine returns, volatility and correlations of different assets and then search for an optimized return/signma portfolio. The second folder has Black-Scholes and option pricing codes in Python.</p>
 
-  <li>MQL code for trading based on RSI indicator</li>
-  <li>MQL code for trading based on RSI indicator</li>
-  <li>MQL code for trading based on RSI indicator</li>
-</ul>  
-</p>
-<p>-</p>
-<p>-</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidplayer&label=Profile%20views&color=0e75b6&style=flat" alt="saidplayer" /> </p>
 
