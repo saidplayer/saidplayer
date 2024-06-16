@@ -1,5 +1,5 @@
 
-### Hi, this is  Dr Soli! A financial developer. 
+### Hi! this is  Dr Soli, a financial developer. 
 Here I share my personal projects in finance, trading and crypto currencies. All the codes and programs are for informational purposes only and not intended to be personal financial advice or used for trading on a real money account.
 
 <p>&nbsp;</p>
