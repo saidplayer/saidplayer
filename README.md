@@ -6,8 +6,11 @@ Here I share my personal projects in finance, trading and crypto currencies. All
 
 ## My repositories:
 
-* [Forex trading signals: coding, backtesting and optimization](https://github.com/saidplayer/ForexTradingStrategies)
-  <p>This repository contains codes that load on Meta Trader 4 and runs during market opening hours. It monitors the chosen Forex pair and performs trades based on the configured settings.</p>
+* **[Forex trading signals: coding, backtesting and optimization](https://github.com/saidplayer/ForexTradingStrategies)**
+  <p>This repository contains code that load on Meta Trader 4 and runs during market opening hours. It monitors the chosen Forex pair and performs trades based on the configured settings.</p>
+
+* **[Python trading bot](https://github.com/saidplayer/KuCoinCandleTrading)**
+  <p>This repository contains code that I have written once to create a trading bot for crypto. It works with API of KuCoin crypto trading platform and provides a base for implementing action trading strategies that work in time frames as low as minutes and seconds.</p>
 
 
   <li>MQL code for trading based on RSI indicator</li>
@@ -27,5 +30,4 @@ Here I share my personal projects in finance, trading and crypto currencies. All
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidplayer&show_icons=true&locale=en" alt="saidplayer" /></p>
+<p align=center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidplayer&show_icons=true&locale=en" alt="saidplayer" /></p>
