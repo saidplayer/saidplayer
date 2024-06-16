@@ -6,7 +6,7 @@ Here I share my personal projects in finance, trading and crypto currencies. All
 
 ## My repositories:
 
-* **[Forex trading signals: coding, backtesting and optimization](https://github.com/saidplayer/ForexTradingStrategies)**
+* **[Forex trading signals: MetaTrader MQL4 coding, backtesting and optimization](https://github.com/saidplayer/ForexTradingStrategies)**
   <p>This repository contains code that load on Meta Trader 4 and runs during market opening hours. It monitors the chosen Forex pair and performs trades based on the configured settings.</p>
 
 * **[Python trading bot](https://github.com/saidplayer/KuCoinCandleTrading)**
