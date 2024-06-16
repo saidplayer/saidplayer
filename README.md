@@ -7,13 +7,13 @@ Here I share my personal projects in finance, trading and crypto currencies. All
 ## My repositories:
 
 * **[Basic finance theory and portfolio analysis](https://github.com/saidplayer/FinanceTheory)**
-  <p>This repository contains two folders. One folder includes MATLAB scripts that determine returns, volatility and correlations of different assets and then search for an optimized return/signma portfolio. The second folder has Black-Scholes and option pricing codes in Python.</p>
+  <p>This repository contains two folders. One folder includes MATLAB scripts that determine returns, volatility and correlations of different assets and then search for an optimized return/signma portfolio. The second folder has Black-Scholes and option pricing codes in Python. It scrapes BHP options market information from an Australian marketplace and provides the basic functions for seeking opportunities for profit from arbitrage.</p>
 
 * **[Analysis of corporations' financial statements](https://github.com/saidplayer/FinanceTheory)**
-  <p>This repository contains Python codes that connects to US SEC public API, called EDGAR. It then extracts financial information, based on GAAP system, and calculates principal financial ratios: Current ratio, Leverage ratio, P/E  ratio, Inventory Turnover</p>
+  <p>This repository contains Python code that connects to US SEC public API, called EDGAR. It  extracts financial information, based on GAAP system, and calculates principal financial ratios: Current ratio, Leverage ratio, P/E  ratio, Inventory Turnover</p>
     
 * **[Forex trading signals: MetaTrader MQL4 coding, backtesting and optimization](https://github.com/saidplayer/ForexTradingStrategies)**
-  <p>This repository contains code that load on Meta Trader 4 and runs during market opening hours. It monitors the chosen Forex pair and performs trades based on the configured settings.</p>
+  <p>This repository contains code that load on Meta Trader 4 and runs during market opening hours. It monitors the chosen Forex pair and performs trades based on the configured settings, RSI/MACD indicators and Fair value gap.</p>
 
 * **[Python trading bot](https://github.com/saidplayer/KuCoinCandleTrading)**
   <p>This repository contains code that I have written once to create a trading bot for crypto. It works with API of KuCoin crypto trading platform and provides a base for implementing action trading strategies that work in time frames as low as minutes and seconds.</p>
